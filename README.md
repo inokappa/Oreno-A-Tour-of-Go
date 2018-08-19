@@ -1,7 +1,13 @@
 # 俺の A Tour of Go
 
-## 実行方法
+## ディレクトリ構成
 
 ```
-./_run.sh hello.go
+$ tree . -L 1
+.
+├── README.md
+├── codes
+└── notes
+
+2 directories, 1 file
 ```
